@@ -40,7 +40,7 @@ E qual o seu ideal de empresa?
 
 <h3>7 - Um novo departamento foi criado. O departamento de inovações. Ele será locado no Brasil. Por favor, adicione-o no banco de dados.</h3>
 
-![image](https://user-images.githubusercontent.com/104120168/200148780-785022ff-33e6-450f-b21d-47b9a3c9688d.png)
+> ![image](https://user-images.githubusercontent.com/104120168/200148780-785022ff-33e6-450f-b21d-47b9a3c9688d.png)
 
 <h3>8 - Novos Funcionários! Três novos funcionários foram contratados para o departamento de inovações. Por favor, adicione-os: William Ferreira, casado com Inara Ferreira, possui um filho chamado Gabriel que tem 4 anos e adora brincar com cachorros. Ele será programador.Já a Fernanda Lima, que é casada com o Rodrigo, não possui filhos. Ela vai ocupar a posição de desenvolvedora. Por último, a Gerente do departamento será Fabiana Raulino. Casada, duas filhas (Maya e Laura).</h3>
 
